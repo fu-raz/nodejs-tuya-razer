@@ -1,0 +1,189 @@
+[
+    {
+        "virtual": false,
+        "lon": "5.1571",
+        "ownerId": "5882483",
+        "uuid": "295256f46b1a8d15",
+        "mac": "d8d6684ab732",
+        "accessType": 0,
+        "otaInfo": {
+            "supportAuto": true,
+            "otaUpgradeModes": [
+                0
+            ],
+            "otaModuleMap": {
+                "wifi": {
+                    "upgradeStatus": 0,
+                    "cdv": "1.0.0",
+                    "bv": "40.00",
+                    "verSw": "1.1.6"
+                },
+                "mcu": {
+                    "upgradeStatus": 0,
+                    "cdv": "",
+                    "verSw": "1.1.6"
+                }
+            }
+        },
+        "iconUrl": "https://images.tuyaeu.com/smart/icon/ay1541056239985fDGjj/79b5195d421431d3d74da94cc3c1b672.png",
+        "communication": {
+            "mqttTopicAttr": 1,
+            "communicationNode": "bf93e33ea63bd815fcsffh",
+            "communicationModes": [
+                {
+                    "pv": "",
+                    "type": 0
+                },
+                {
+                    "pv": "2.3",
+                    "type": 1
+                },
+                {
+                    "pv": "",
+                    "type": 3
+                }
+            ],
+            "dataModel": 1,
+            "connectionStatus": 1
+        },
+        "gatewayVerCAD": "1.0.5",
+        "lat": "52.7344",
+        "runtimeEnv": "prod",
+        "devKey": "",
+        "devId": "bf93e33ea63bd815fcsffh",
+        "productId": "stmkcsykq3kheboa",
+        "ip": "213.184.124.251",
+        "activeTime": 1708446711,
+        "cloudOnline": true,
+        "baseAttribute": 1024,
+        "virtualExperience": false,
+        "devAttribute": 4675,
+        "dataPointInfo": {
+            "dpMaxTime": 1709048178041,
+            "dpName": {},
+            "dps": {
+                "20": true,
+                "21": "scene",
+                "24": "000003e803e8",
+                "26": 0,
+                "27": "",
+                "47": 16,
+                "51": "ARUKUlLgAABkAMFhALQwALVSAMRj",
+                "52": "AQAAA2QyAAAAZAAAZAB4ZADwZAA8ZAC0ZAEsZAAAAAAAAA==",
+                "53": 16,
+                "61": "AAEAFAAAAAPoA+g="
+            },
+            "dpsTime": {
+                "20": 1709035958189,
+                "21": 1709035958189,
+                "24": 1709035958382,
+                "26": 1709035958189,
+                "27": 1708446711488,
+                "47": 1709035958189,
+                "51": 1709048177861,
+                "52": 1709048177948,
+                "53": 1709035958189,
+                "61": 1709048178041
+            }
+        },
+        "meta": {
+            "enableFittings": true,
+            "supportAssistActive": true
+        },
+        "name": "Battletron Light Bar",
+        "timezoneId": "Europe/Amsterdam",
+        "deviceTopo": {},
+        "localKey": "Sf.#F=;&m6exLOQ4"
+    },
+    {
+        "virtual": false,
+        "lon": "5.1600",
+        "ownerId": "5882483",
+        "uuid": "d14600f2a8f8cde7",
+        "mac": "508bb9b770ea",
+        "accessType": 0,
+        "otaInfo": {
+            "supportAuto": true,
+            "otaUpgradeModes": [
+                0
+            ],
+            "otaModuleMap": {
+                "wifi": {
+                    "upgradeStatus": 0,
+                    "cdv": "1.0.0",
+                    "bv": "40.00",
+                    "verSw": "1.0.4"
+                },
+                "mcu": {
+                    "upgradeStatus": 0,
+                    "cdv": "",
+                    "verSw": "1.0.4"
+                }
+            }
+        },
+        "iconUrl": "https://images.tuyaeu.com/smart/icon/ay1578118863094h8YCV/dd0c14119f57a766178f0591e0929dc7.png",
+        "communication": {
+            "mqttTopicAttr": 1,
+            "communicationNode": "bfc855c37fb4ab51e4n80d",
+            "communicationModes": [
+                {
+                    "pv": "",
+                    "type": 0
+                },
+                {
+                    "pv": "2.3",
+                    "type": 1
+                },
+                {
+                    "pv": "",
+                    "type": 3
+                }
+            ],
+            "dataModel": 1,
+            "connectionStatus": 1
+        },
+        "gatewayVerCAD": "1.0.5",
+        "lat": "52.7300",
+        "runtimeEnv": "prod",
+        "devKey": "",
+        "devId": "bfc855c37fb4ab51e4n80d",
+        "productId": "yrg6a649fkozp1hw",
+        "ip": "217.63.224.202",
+        "activeTime": 1701448450,
+        "cloudOnline": true,
+        "baseAttribute": 1024,
+        "virtualExperience": false,
+        "devAttribute": 4675,
+        "dataPointInfo": {
+            "dpMaxTime": 1709048193302,
+            "dpName": {},
+            "dps": {
+                "20": false,
+                "21": "colour",
+                "24": "0154034903e8",
+                "26": 0,
+                "27": "",
+                "102": "AA==",
+                "103": "ABcCAQFkZAAAAGQCAABkAUo6AgFkZAAAAGQCAABkAUo6"
+            },
+            "dpsTime": {
+                "20": 1708588860613,
+                "21": 1708337460724,
+                "24": 1707917282984,
+                "26": 1708337460737,
+                "27": 1701447776666,
+                "61": 1709048191989,
+                "102": 1709048193302,
+                "103": 1709048191843
+            }
+        },
+        "meta": {
+            "enableFittings": true,
+            "supportAssistActive": true
+        },
+        "name": "Battletron Ball Light",
+        "timezoneId": "Europe/Amsterdam",
+        "deviceTopo": {},
+        "localKey": "ye2L2YTx'{9NMJAG"
+    }
+]

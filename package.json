@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@tuya/tuya-connector-nodejs": "^2.1.2",
+    "buffer-crc32": "^1.0.0",
+    "debug": "^4.3.4",
+    "got": "^11.8.5",
+    "is": "^3.3.0",
+    "node-rsa": "^1.1.1",
+    "randomatic": "^3.1.1",
+    "sort-keys-recursive": "^2.1.7",
+    "uuid": "^9.0.0"
+  }
+}
